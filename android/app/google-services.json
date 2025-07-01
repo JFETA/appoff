@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39472394989",
+    "project_id": "appoff-54417961",
+    "storage_bucket": "appoff-54417961.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39472394989:android:12e08262b6df0fa0b592e4",
+        "android_client_info": {
+          "package_name": "com.example.appoff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzBer4JMytTyeCALSSpbYw0t8r6Mj6lvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
