@@ -4,7 +4,6 @@ import 'package:appoff/login_page.dart'; // Import the login_page.dart file
 void main() {
   runApp(MyApp());
 }
-
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
